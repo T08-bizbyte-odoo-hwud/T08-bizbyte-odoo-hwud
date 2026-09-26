@@ -18,7 +18,7 @@ CashLens uses Odoo to automate sales and accounting processes. It allows busines
 - Invoice Generation
 - Payment Tracking
 - Revenue Monitoring
-- Business Reporting
+
 
 ## Tools Used
 - Odoo
@@ -34,4 +34,53 @@ BizByte (T08)
 
 ## Repository
 Hackathon project developed for the Heriot-Watt Tech Club Odoo Hackathon 2026.
+
+
+
+
+
+- # Odoo Sales Management Project
+
+## Objective
+To demonstrate the sales process in Odoo ERP.
+
+## Tasks Completed
+- Created 12 customer records.
+- Created quotations for customers.
+- Added products/services and quantities.
+- Confirmed sales orders.
+- Generated invoices.
+- Tracked order statuses.
+
+## Customers Created
+- Green Towers LLC
+- Marina Events Dubai
+- Downtown Co.
+- BlueSky Media
+- JLT Services Company
+- Palm Group
+- Metro Offices
+- Creek Consulting
+- Gulf Design
+- Horizon Trading
+
+## Sales Workflow
+1. Customer creation
+2. Quotation creation
+3. Sales order confirmation
+4. Invoice generation
+5. Order tracking
+
+## Screenshots
+Screenshots are included in this repository showing:
+- Sales Dashboard
+- Customer Records
+- Quotations
+- Sales Orders
+- Fully Invoiced Orders
+
+## Result
+Successfully completed the Odoo Sales Management workflow and demonstrated order processing from quotation to invoicing.
+- Business Reporting
+
 
