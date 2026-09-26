@@ -88,4 +88,20 @@ Screenshots are included in this repository showing:
 Successfully completed the Odoo Sales Management workflow and demonstrated order processing from quotation to invoicing.
 - Business Reporting
 
+### Included Files
+- **CashLens Excel Workbook**
+  - Sales Sheet
+  - Purchases Sheet
+  - Expenses Sheet
+  - Cash Sheet
+  - Forecast Sheet
+  - Intelligence Sheet (final consolidated output)
+
+- **Financial Dashboard**
+  - Built entirely from the Intelligence sheet
+  - Shows projected cash, risk levels, cash-out patterns, and threshold alerts
+
+These files demonstrate the complete workflow from raw financial inputs → processed intelligence → visual dashboard insights.
+
+
 
