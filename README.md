@@ -78,6 +78,11 @@ Screenshots are included in this repository showing:
 - Quotations
 - Sales Orders
 - Fully Invoiced Orders
+- 
+ ## Tools Used 
+ Odoo ERP (Sales Module)
+ Microsoft Excel Information Workbook
+ GitHub
 
 ## Result
 Successfully completed the Odoo Sales Management workflow and demonstrated order processing from quotation to invoicing.
