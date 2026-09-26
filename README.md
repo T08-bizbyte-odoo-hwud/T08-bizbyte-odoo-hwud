@@ -39,7 +39,7 @@ Hackathon project developed for the Heriot-Watt Tech Club Odoo Hackathon 2026.
 
 
 
-- # Odoo Sales Management Project
+- # Odoo Sales Management Project Workflow
 
 ## Objective
 To demonstrate the sales process in Odoo ERP.
