@@ -19,7 +19,6 @@ CashLens uses Odoo to automate sales and accounting processes. It allows busines
 - Payment Tracking
 - Revenue Monitoring
 
-
 ## Tools Used
 - Odoo
 - Microsoft Excel
@@ -102,6 +101,19 @@ Successfully completed the Odoo Sales Management workflow and demonstrated order
   - Shows projected cash, risk levels, cash-out patterns, and threshold alerts
 
 These files demonstrate the complete workflow from raw financial inputs → processed intelligence → visual dashboard insights.
+
+ ##  Pitch Presentation
+
+The repository includes the CashLens pitch presentation submitted for the BuildOdoo Hackathon.
+
+##  Future Development
+
+- Automated data synchronization
+- AI-powered cash-flow forecasting
+- Automated financial alerts
+- Advanced financial analytics
+
+
 
 
 
